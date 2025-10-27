@@ -162,7 +162,7 @@ After authorization, the app stores tokens locally for quick reuse.
 - **Playback fails:** Ensure a Spotify Connect device is active.  
 - **Missing pyfiglet:** You’ll still get lyrics — just without ASCII headers.  
 - **Logs:** Check `spt_py_textual_spotify.log` for details.
-
+- **Log size file:** Be careful with the size of the log file. Right now the code has nothing to stop the log from growing, so be careful, I will implement a solution for this soon.
 ---
 
 ## 🔒 Security Notes
