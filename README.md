@@ -17,6 +17,12 @@ It’s inspired by [Rigellute’s spotify-tui](https://github.com/Rigellute/spot
 
 ---
 
+## 📸 Media
+
+![Git-Terminal](https://github.com/user-attachments/assets/e6ea4d04-60c5-4b40-951b-e5620b043631)
+
+---
+
 ## ✨ Main Features
 
 ### 🔑 Authentication
