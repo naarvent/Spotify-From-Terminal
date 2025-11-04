@@ -169,6 +169,7 @@ After authorization, the app stores tokens locally for quick reuse.
 - **Missing pyfiglet:** You’ll still get lyrics — just without ASCII headers.  
 - **Logs:** Check `spt_py_textual_spotify.log` for details.
 - **Log size file:** Be careful with the size of the log file. Right now the code has nothing to stop the log from growing, so be careful, I will implement a solution for this soon.
+- (This last issue has already been fixed in version [v1.2](https://github.com/naarvent/Spotify-From-Terminal/releases/tag/v1.2))
 ---
 
 ## 🔒 Security Notes
